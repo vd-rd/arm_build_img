@@ -1,4 +1,4 @@
-FROM: alpine
+FROM alpine
 MAINTAINER Vadim Radu <vadim@unda.tech>
 LABEL Description="Image for building and debugging arm-embedded projects from git"
 WORKDIR /work
